@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --name="OllamaModelManager" --clean --noconfirm ollama_model_manager_gui.py
